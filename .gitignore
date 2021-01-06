@@ -3,3 +3,7 @@ dist
 venv
 .idea
 main.spec
+Photos
+Converted
+haarcascade_frontalface_alt2.xml
+__pycache__/imgProcessor.cpython-38.pyc

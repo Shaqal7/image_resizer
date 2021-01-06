@@ -3,12 +3,12 @@ import os.path
 from imgProcessor import imgProcessor
 
 
-# directoryFromTakeImages = sys.argv[1]  # Photos/
-# directoryWhereSaveImages = sys.argv[2]  # Converted/
+directoryFromTakeImages = sys.argv[1]  # Photos/
+directoryWhereSaveImages = sys.argv[2]  # Converted/
 
 # for test
-directoryFromTakeImages = 'Photos/'  # Photos/
-directoryWhereSaveImages = 'Converted/'  # Converted/
+# directoryFromTakeImages = 'Photos/'  # Photos/
+# directoryWhereSaveImages = 'Converted/'  # Converted/
 
 if not os.path.exists(directoryWhereSaveImages):
     try:

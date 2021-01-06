@@ -1,3 +1,3 @@
 # How its works:
 
-python directoryFromTakePictures directoryWherePutConvertedImages
+>python directoryFromTakePictures directoryWherePutConvertedImages

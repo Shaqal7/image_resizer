@@ -1,3 +1,5 @@
 # How its works:
 
->python directoryFromTakePictures directoryWherePutConvertedImages
+python.exe .\main.py D:\tmp\ D:\przekonwertowane\
+
+> python directoryFromTakePictures directoryWherePutConvertedImages
